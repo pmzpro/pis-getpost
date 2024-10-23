@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  },
+  "name": "lab2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pedro Cruz, Estudante Nº 201901829",
+  "license": "ISC",
+  "description": ""
+}

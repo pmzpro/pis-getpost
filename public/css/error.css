@@ -1,0 +1,10 @@
+body {
+    margin: 0; /* Remove margem padrão */
+    padding: 0; /* Remove padding padrão */
+    height: 100vh; /* Define a altura do body para 100% da viewport */
+    background-image: url('/images/page-not-found.png'); /* Caminho da imagem */
+    background-size: cover; /* Garante que a imagem cubra 100% da área da viewport */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    background-attachment: fixed; /* Mantém a imagem fixa durante o scroll */
+}
